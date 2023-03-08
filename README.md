@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/fe9ca353763b236e7ee25a3be85ff4985953f6b644796e765fcd9f4ad11a5fb1/68747470733a2f2f7777772e617070696e666f736f6c2e636f6d2f6173736574732f696d672f4a71756572792e676966)
+![MasterHead](https://www.freewebheaders.com/wp-content/gallery/computer/blue-creative-lighted-buttons-computer-keyboard-web-header.jpg)
 <h1 align="center">Hi 👋, I'm George Bisharat</h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/>
