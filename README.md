@@ -1,4 +1,4 @@
-![MasterHead](https://www.freewebheaders.com/wp-content/gallery/abstract-size-1024x300/blue-grain-abstract-background-header-1024x300.jpg)
+![MasterHead](https://klaxos.com/wp-content/uploads/2018/01/strategy-light-bulbs.jpg)
 <h1 align="center">Hi 👋, I'm George Bisharat</h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/>
