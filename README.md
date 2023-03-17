@@ -3,11 +3,11 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 - 📄 Academic Degree - B.Sc Information Systems
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/georgebisharat"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/georgebisharat" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/georgebisharat"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/georgebisharat" height="25" width="25" /></a>
 </p>
 
 
